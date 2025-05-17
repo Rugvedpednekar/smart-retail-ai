@@ -1,0 +1,15 @@
+smart-retail-ai/
+    README.md
+    requirements.txt
+    .gitignore
+    data/
+        sales_data.csv
+        customer_orders.csv
+    notebooks/
+        demand_forecasting.ipynb
+        recommendations.ipynb
+    src/
+        forecast_model.py
+        recommend_model.py
+    app/
+        app.py
