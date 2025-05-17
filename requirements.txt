@@ -1,0 +1,32 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Time Series Forecasting
+statsmodels
+prophet
+
+# Recommendation System
+scipy
+surprise  # For collaborative filtering models
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# App/Dashboard (Choose one or both)
+streamlit
+flask
+
+# Notebook support
+jupyter
+
+# Optional (for scaling or experiments)
+xgboost
+lightgbm
